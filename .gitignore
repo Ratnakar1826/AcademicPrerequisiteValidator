@@ -1,0 +1,18 @@
+# Compiled binaries and object files
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# IDE and editor configurations
+.vscode/
+.vs/
+.idea/
+
+# OS generated files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
